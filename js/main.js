@@ -1,0 +1,11 @@
+prompt('input');
+var arg1 = 70;
+var arg2 = 10;
+var summ = arg1 + arg2;
+var multiply = arg1 * arg2;
+var divide = arg1 / arg2;
+var difference = arg1 - arg2;
+console.log('summ = ' + summ);
+console.log('multiply = ' + multiply);
+console.log('divide = ' + divide);
+console.log('difference = ' + difference);
